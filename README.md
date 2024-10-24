@@ -2,7 +2,10 @@
 
 Sport Science
 
+## AI 
+
+* [Getting started with AI in Sport Science](https://www.globalperformanceinsights.com/post/getting-started-with-artificial-intelligence-in-sports-science)
+
 ## Large Language Model
 
-* [LARGE LANGUAGE MODELS IN SPORT SCIENCE & MEDICINE: OPPORTUNITIES, RISKS AND CONSIDERATIONS](https://arxiv.org/pdf/2305.03851)
-* 
+* [LLM in Sport Science & Medicine: Opportunities, Risks and Considerations](https://arxiv.org/pdf/2305.03851)
